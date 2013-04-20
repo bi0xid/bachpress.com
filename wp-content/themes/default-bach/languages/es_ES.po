@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bach-theme 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-28 17:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rafael Poveda <RaveN> <raven@mecus.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/raven/Desktop/bach\n"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/cerrar-ticket.php:80
+#: HD/Users/raven/Desktop/bach/claim.php:62
+#: HD/Users/raven/Desktop/bach/en-espera.php:50
+#: HD/Users/raven/Desktop/bach/reabrir.php:50
+#: HD/Users/raven/Desktop/bach/reactivar.php:51
+#, php-format
+msgid "<strong>Ticket principal de %s</strong>"
+msgstr "<strong>Ticket principal de %s</strong>"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/cerrar-ticket.php:82
+#: HD/Users/raven/Desktop/bach/claim.php:64
+#: HD/Users/raven/Desktop/bach/en-espera.php:52
+#: HD/Users/raven/Desktop/bach/reabrir.php:52
+#: HD/Users/raven/Desktop/bach/reactivar.php:53
+#, php-format
+msgid "<p style=\"border: 1px solid gray; padding: 8px;\">%s</p>"
+msgstr "<p style=\"border: 1px solid gray; padding: 8px;\">%s</p>"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/cerrar-ticket.php:87
+#, php-format
+msgid "MLAB: CLOSED:: \"%1$s\""
+msgstr "MLAB: CLOSED:: \"%1$s\""
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/claim.php:69
+#, php-format
+msgid "MLAB: RECLAMADO:: \"%1$s\""
+msgstr "MLAB: RECLAMADO:: \"%1$s\""
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/comments.php:27
+msgid "editar"
+msgstr "editar"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/en-espera.php:57
+#, php-format
+msgid "MLAB: WAIT:: \"%1$s\""
+msgstr "MLAB: WAIT:: \"%1$s\""
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/functions.php:40
+msgid "Recent Tags"
+msgstr "Recent Tags"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/functions.php:192
+msgid "Title:"
+msgstr "Title:"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/functions.php:196
+msgid "Num of tags to show:"
+msgstr "Num of tags to show:"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/functions.php:202
+#: HD/Users/raven/Desktop/bach/functions.php:203
+msgid "Recent Projects"
+msgstr "Recent Projects"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/index.php:8
+msgid "New post"
+msgstr "Nuevo artículo"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/index.php:17
+msgid "Last tickets"
+msgstr "Last tickets"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/index.php:94
+msgid "(More ...)"
+msgstr "(More ...)"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/index.php:95
+msgid "modificar"
+msgstr "modificar"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/post-form.php:37
+msgid "Prioridad"
+msgstr "Prioridad"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/post-form.php:49
+msgid "Proyecto"
+msgstr "Proyecto"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/post-form.php:61
+msgid "Usuario"
+msgstr "Usuario"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/reabrir.php:57
+#, php-format
+msgid "MLAB: REAB:: \"%1$s\""
+msgstr "MLAB: REAB:: \"%1$s\""
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/reactivar.php:58
+#, php-format
+msgid "MLAB: REACT:: \"%1$s\""
+msgstr "MLAB: REACT:: \"%1$s\""
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/single.php:48
+msgid "no hay aportaciones"
+msgstr "no hay aportaciones"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/single.php:48
+msgid "una respuesta"
+msgstr "una respuesta"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/single.php:48
+msgid "% respuestas"
+msgstr "% respuestas"
+
+#: /Volumes/Macintosh HD/Users/raven/Desktop/bach/trans_luis.php:65
+#: HD/Users/raven/Desktop/bach/trans_raven.php:63
+#: HD/Users/raven/Desktop/bach/trans_rocio.php:63
+#, php-format
+msgid "MLAB: TRANS:: \"%1$s\""
+msgstr "MLAB: TRANS:: \"%1$s\""
+
